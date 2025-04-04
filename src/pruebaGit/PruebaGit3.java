@@ -1,5 +1,5 @@
 package pruebaGit;
 
-public class PruebaGit2 {
+public class PruebaGit3 {
 	private String prueba;
 }

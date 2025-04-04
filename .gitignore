@@ -1,0 +1,10 @@
+*.iml
+*.classpath
+*.project
+*.prefs
+
+
+bin/
+target/
+
+*.jar
