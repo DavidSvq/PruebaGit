@@ -1,7 +1,8 @@
 package pruebaGit;
 
 public class PruebaGit{
-	String prueba;
+	private String prueba;
+	private int nPrueba;
 
 	public PruebaGit(String prueba) {
 		super();
